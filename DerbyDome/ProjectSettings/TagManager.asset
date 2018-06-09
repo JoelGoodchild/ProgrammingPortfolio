@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wheel
+  - Ground
+  - Camera1
+  - Pivot
+  - FrontBumper
+  - Manager
+  - Pause
+  - Canvas
+  - LevelManager
+  - Leader
+  - Cam1
+  - Cam2
+  - Cam3
+  - Cam4
+  - BoostSlider1
+  - BoostSlider2
+  - BoostSlider3
+  - BoostSlider4
+  - ExplosionSphere
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Car
+  - PLayer1Icon
+  - PLayer2Icon
+  - PLayer3Icon
+  - PLayer4Icon
+  - Ghosts
+  - 
+  - 
+  - 
+  - SpotCam
+  - TopCars
+  - BottomCars
+  - TopCarsWall
+  - BottomCarsWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
